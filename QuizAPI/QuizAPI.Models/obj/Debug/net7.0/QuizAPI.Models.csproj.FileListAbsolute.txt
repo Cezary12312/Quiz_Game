@@ -1,0 +1,12 @@
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\bin\Debug\net7.0\QuizAPI.Models.deps.json
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\bin\Debug\net7.0\QuizAPI.Models.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\bin\Debug\net7.0\QuizAPI.Models.pdb
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.csproj.AssemblyReference.cache
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.AssemblyInfo.cs
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\refint\QuizAPI.Models.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\QuizAPI.Models.pdb
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Models\obj\Debug\net7.0\ref\QuizAPI.Models.dll

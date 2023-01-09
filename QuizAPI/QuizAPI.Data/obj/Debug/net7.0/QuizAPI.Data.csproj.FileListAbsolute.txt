@@ -1,0 +1,15 @@
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\bin\Debug\net7.0\QuizAPI.Data.deps.json
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\bin\Debug\net7.0\QuizAPI.Data.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\bin\Debug\net7.0\QuizAPI.Data.pdb
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\bin\Debug\net7.0\QuizAPI.Models.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\bin\Debug\net7.0\QuizAPI.Models.pdb
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.csproj.AssemblyReference.cache
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.AssemblyInfoInputs.cache
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.AssemblyInfo.cs
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.csproj.CopyComplete
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\refint\QuizAPI.Data.dll
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\QuizAPI.Data.pdb
+C:\Users\Cezar\source\repos\GameQuiz\QuizAPI\QuizAPI.Data\obj\Debug\net7.0\ref\QuizAPI.Data.dll
