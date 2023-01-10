@@ -5,18 +5,18 @@ The app is split into two parts - frontend made in Javascript and React with Mat
 
 Technology:
 
-.NET 6.0
-C#
-Javascript, CSS, Material UI, React
-SQL Server
-ASP .NET CORE 
-EF Core 7.0.1
-Visual Studio
-Visual Studio Code
+- .NET 6.0
+- C#
+- Javascript, CSS, Material UI, React
+- SQL Server
+- ASP .NET CORE 
+- EF Core 7.0.1
+- Visual Studio
+vVisual Studio Code
 
 Requirements:
 
-SOLID
-DRY
-KISS
-CLEAN CODE
+- SOLID
+- DRY
+- KISS
+- CLEAN CODE
